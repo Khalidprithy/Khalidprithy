@@ -1,11 +1,10 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Khalid Bin Alam</h1>
 <h3 align="center">A am a frontend web developer</h3>
-<img aligh="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/dfe73269796077.5b8e2a3fc5deb.gif">
+<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/dfe73269796077.5b8e2a3fc5deb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidprithy&label=Profile%20views&color=0e75b6&style=flat" alt="khalidprithy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalidprithy" alt="khalidprithy" /></a> </p>
 
 - 🔭 I’m currently working on **NodeJS**
 
@@ -17,7 +16,6 @@
 
 - 📫 How to reach me **khalidprithy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16wCbR3R3LDZRrMmxdvwAOnwa54_9bxpV/view?usp=sharing](https://drive.google.com/file/d/16wCbR3R3LDZRrMmxdvwAOnwa54_9bxpV/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy solitude and love doing DIY projects**
 
