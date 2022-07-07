@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [Dev.Kbin](Dev.Kbin)
+- 👨‍💻 All of my projects are available at [https://reliable-selkie-d26cc7.netlify.app/](Dev.Kbin)
 
 - 💬 Ask me about **React, ES6, MongoDB, Tailwind**
 
