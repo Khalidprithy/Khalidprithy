@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/QYdmj5K/git-Intro-Photo.png)](https://rishavchanda.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋 I'm Khalid Bin Alam</h1>
 <h3 align="center">A am a MERN stack developer</h3>
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/dfe73269796077.5b8e2a3fc5deb.gif">
