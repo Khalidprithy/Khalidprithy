@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1080" style="border-radius:10%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="center" alt="Coding" width="1080" style="border-radius:50%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Khalid Bin Alam</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
