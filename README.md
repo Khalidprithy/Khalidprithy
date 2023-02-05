@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1080" style="border-radius:50%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Khalid Bin Alam</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+<h3 align="center">A MERN stack developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidprithy&label=Profile%20views&color=0e75b6&style=flat" alt="khalidprithy" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/dfe73269796077.5b8e2a3fc5deb.gif">
