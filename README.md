@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/dfe73269796077.5b8e2a3fc5deb.gif">
 
-- 🔭 I’m currently working on **DevApp**
+- 🔭 I’m currently working at **RootDevs**
 
-- 🌱 I’m currently learning **NextJS, Redux, SocketIO.**
+- 🌱 I’m currently learning **Programming**
 
-- 👯 I’m looking to collaborate on **DevApp**
+- 👯 I’m looking to collaborate on **Anything-QR**
 
-- 🤝 I’m looking for help with **ChatBot**
+- 🤝 I’m looking for help with **RUST**
 
 - 👨‍💻 All of my projects are available at [https://devkbin.netlify.app/](https://devkbin.netlify.app/)
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **React, JavaScript, Tailwind, NodeJS, Express, MongoDB**
 
-- 📫 How to reach me **dev.kbin@gmail.com**
+- 📫 How to reach me **dev.kbin101@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JjJykyTc_AELJviWEbyBIX5e13yLA1s7/view?usp=sharing](https://drive.google.com/file/d/1JjJykyTc_AELJviWEbyBIX5e13yLA1s7/view?usp=sharing)
 
